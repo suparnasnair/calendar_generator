@@ -1,3 +1,9 @@
+"""
+This module generates HTML calendar based on the year provided by user via command-line
+argument.
+"""
+__author__ = 'Suparna S. Nair'
+
 # module imports
 import argparse
 import os

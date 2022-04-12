@@ -1,3 +1,9 @@
+"""
+This module generates HTML string based on the calendar data.
+"""
+__author__ = 'Suparna S. Nair'
+
+
 def generator_head():
     """
     This function generates the head of the html file, including  the styling.
